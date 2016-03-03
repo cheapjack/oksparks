@@ -4,6 +4,8 @@
 Sat 14th - Sunday 15th May 2016
 1pm - 4.30pm
 
+<img src="https://cloud.githubusercontent.com/assets/128456/13494426/f8340d12-e13b-11e5-973f-e7954d0a2d36.png" width="600">
+
 #### Workshop Equipment
 
  * pH meter
