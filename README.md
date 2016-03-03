@@ -11,7 +11,7 @@ Repo, planning, design and issues for Ok sparks/easter course project at Wray Ca
 #### Ok Sparks!
 ##### 7th and 8th May 2016
 **1200pm - 16.30pm**
-Reflecting on the past of the Merchant Navy at Wray Castle through contemporary local radio society Furness Amateur Radio Society
+Reflecting on the past of the Merchant Navy at Wray Castle through contemporary local radio society [Furness Amateur Radio Society](http://www.fars.org.uk/)
 
 #### The Easter Class
 ##### 14th & 15th May 2016
