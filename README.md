@@ -8,7 +8,7 @@ Repo, planning, design and issues for Ok sparks/easter course project at Wray Ca
 
 **[Hwa Young Jung](http://slyrabbit.net/) [Ross Dalziel](http://cheapjack.org.uk) and [Glenn Boulter](http://glennboulter.net/) are developing 2 public events of activity, workshops and pervasive games.**
 
-Work with artists, scientists and radio experts to explore local Freshwater Biology, use Morse code, communicate over a temporary Wray Castle radio station, explore sensor networks, play a Text Adventure game and explore a Minecraft treasure hunt to investigae the hidden histories of a unique place in the Lake District with a unique role in the history of science and communication. 
+Work with artists, scientists and radio experts to explore local Freshwater Biology, use Morse code, communicate over a temporary Wray Castle radio station, explore sensor networks, play a mobile Text Adventure game and explore a Minecraft treasure hunt to investigae the hidden histories of a unique place in the Lake District with a unique role in the history of science and communication. 
 
 #### Ok Sparks!
 ##### 7th and 8th May 2016
