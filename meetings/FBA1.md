@@ -1,10 +1,36 @@
 ## Freshwater Biological Association
-
 ### Planning meeting notes for activity 
 Sat 14th - Sunday 15th May 2016
 1pm - 4.30pm
-
 <img src="https://cloud.githubusercontent.com/assets/128456/13494426/f8340d12-e13b-11e5-973f-e7954d0a2d36.png" width="600">
+
+#### Structure
+
+Subject | Person | Location
+------------ | ------------- |-----------
+Introduction | Elizabeth | Morning room
+Water Chemistry | Alan Pentecost | Fernery  
+Algalogy | Alan Pentecost | Fernery
+Tea & Coffee |    |  
+Invertebrates | Roger | Fernery  
+Fish Scales | Roger | Fernery  
+
+
+Practical Activity in Fernery
+ * Aquiring Samples
+ * Using Microscopes
+ * Enamel tray samples
+ * Fish Scale counting
+ * Water Moss
+
+Practical Activity in Morning Room
+ * Limnology reading room
+ * Fristch collection slideshow
+ * Tiffin Shop display
+ * Water tank
+ * Microscope
+
+
 
 #### Workshop Equipment
 
@@ -42,33 +68,6 @@ Sat 14th - Sunday 15th May 2016
   * Set number of scales new scales 
   * Outside of the scales 
   * Identify species scales
-
-#### Structure
-
-Subject | Person | Location
------------- | ------------- |-----------
-Introduction | Elizabeth | Morning room
-Water Chemistry | Alan Pentecost | Fernery  
-Algalogy | Alan Pentecost | Fernery
-Tea & Coffee |    |  
-Invertebrates | Roger | Fernery  
-Fish Scales | Roger | Fernery  
-
-
-Practical Activity in Fernery
- * Aquiring Samples
- * Using Microscopes
- * Enamel tray samples
- * Fish Scale counting
- * Water Moss
-
-Practical Activity in Morning Room
- * Limnology reading room
- * Fristch collection slideshow
- * Tiffin Shop display
- * Water tank
- * Microscope
-
 
 ### Marketing
 
