@@ -1,69 +1,24 @@
-# Meeting 1 
-1/03/2016 Wray Castle and Coniston
+# Micro-residency Planning 
+1 - 4th March 2016 Wray Castle and Coniston Water
 
-### Agenda
+Meeting notes, planning and research for OK-Sparks! 
 
- * Room & Planning List and check
- * Admin
- * Github Issues
- * 
+Ok-sparks! is an artist's residency exploring the history of Wray Castle through it's past tenancies. Supported by Arts Council England and the National Trust. 
 
+[Hwa Young Jung](http://slyrabbit.net/) [Ross Dalziel](http://cheapjack.org.uk) and [Glenn Boulter](http://glennboulter.net/) are developing 2 public events of activity, workshops and pervasive games 
 
 ### Ok Sparks!
-#### 7th and 8th 
+#### 7th and 8th May 2016
+Reflecting on the past of the Merchant Navy at Wray Castle through contemporary local radio communities.
 
- * Main Playroom: 
-  * FARS Roadshow
-  * Bi-pole Antenna workshop
-
- * Morning Room: The Science Room
-Fake Library
-
-###Rooms
-Main PlayRoom
-Morning Room
-Fake Librarys
-
-Greenhouse
-
-FARS cape 
-FARS 
-Antenna workshop
-Glenns Portable radios
-Cocklecraft of Things
-Shrimps
-Eco-systems 
+### The Easter Class
+#### 14th & 15th May 2016
+Re-creating the Easter Class and reflecting on the Freshwater Biological Association tenancy. 
 
 
-##### Minecraft Volunteers 
-
-Teenage Volunteers 
-
-### The Easter Course
-#### 14th & 15th
-
- * Morning Room: The Science Room
- * Fern Room
-  * Talk
- * Library
-
-1030 - 1630 
-Tanktops and labcoats
-
-
-### Board Games 
-
-
-### Text-Adventure
-
-Small tablets
-Android Blue-Ribband
-Minecraft / Text Adventure crossover
-
-Documentation by interactive non-fiction
-
-Limnologist septic tank top
-Waders
+### Ok Sparks shop
+ * Limnologist septic tank top
+ * Waders
 
 
 
