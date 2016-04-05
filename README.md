@@ -39,5 +39,6 @@ General visitors can access a temporary FBA reading room in the Castle and meet 
 
 Visitors can also continue to play the Wray Castle Text Adventure game by artist Glenn Boulter and take part in RF-Craft the Wray Castle Minecraft Treasure Hunt
 
+<img src="http://slyrabbit.net/wp-content/uploads/2015/10/AC-NT-logos-1.png" width="400">
+
 <img src="http://slyrabbit.net/wp-content/uploads/2015/10/LLcover-360x360.jpg" width="600">
-http://slyrabbit.net/wp-content/uploads/2015/10/AC-NT-logos-1.png
